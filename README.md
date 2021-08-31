@@ -1,5 +1,5 @@
 Hi, I’m @SnosnyAlt
-Developer in: C#, python and JavaScript
-Founder: Skidders
+Developer in: python and JavaScript
+Founder: Tool
 Discord: discord.gg/tool
 
